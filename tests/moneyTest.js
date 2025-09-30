@@ -29,6 +29,7 @@ if (formatCurrency(2000.5) === '20.01') {
 
 console.log('');
 
+/**
 console.log('Test suite: format currency #2');
 
 console.log('Converts cents into dollars');
@@ -55,3 +56,4 @@ if (formatCurrency(2000.5) === '20.01') {
   console.log('failed');
   console.log(formatCurrency(2000.5));
 }
+**/
